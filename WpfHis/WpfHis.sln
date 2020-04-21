@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfHisV4", "WpfHisV4\WpfHisV4.csproj", "{86C9531D-6DF4-48A5-B1BA-7D99620AFEE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86C9531D-6DF4-48A5-B1BA-7D99620AFEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C9531D-6DF4-48A5-B1BA-7D99620AFEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C9531D-6DF4-48A5-B1BA-7D99620AFEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C9531D-6DF4-48A5-B1BA-7D99620AFEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51E2CC66-5EF1-46B3-95BE-1E0F32CF1F5E}
+	EndGlobalSection
+EndGlobal
